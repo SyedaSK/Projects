@@ -1,0 +1,1 @@
+Heart Disease Diagnosis phase 1 and phase 2 are two parts of the same project. In phase 1, we did most of the cleaning and some basic visualization for analysis. In phase 2 we have used machine learning algorithms to model the data.
